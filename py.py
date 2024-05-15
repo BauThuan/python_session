@@ -10,4 +10,4 @@ class Person:
 person1 = Person("Alice", 25)
 
 # Gọi method introduce trên instance person1
-person1.    ()  # Kết quả: Xin chào, tôi là Alice và tôi 25 tuổi.
+person1.introduce()  # Kết quả: Xin chào, tôi là Alice và tôi 25 tuổi.
